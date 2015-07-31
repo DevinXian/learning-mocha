@@ -1,0 +1,19 @@
+{
+  "name": "mocha-learning",
+  "version": "0.0.1",
+  "description": "learn to using mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "DevinXian",
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "should": "~7.0.2",
+    "bluebird": "~2.9.34",
+    "should-promised": "~0.3.0",
+    "muk": "~0.3.2",
+    "rewire": "~2.3.4"
+  },
+  "dependencies": {}
+}
