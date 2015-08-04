@@ -13,7 +13,14 @@
     "bluebird": "~2.9.34",
     "should-promised": "~0.3.0",
     "muk": "~0.3.2",
-    "rewire": "~2.3.4"
+    "supertest": "~1.0.1",
+    "rewire": "~2.3.4",
+    "jscover": "~1.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "~4.13.3"
+  },
+  "g-dependencies": {
+    "istanbul": "0.3.17"
+  }
 }
